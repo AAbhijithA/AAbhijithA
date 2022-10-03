@@ -9,5 +9,4 @@ I’m interested in many domains such as
 I’m currently learning skills on web development and machine learning 
 
 I am open to collaborate on any
-Machine Learning based problems
-IoT based problems
+Machine Learning, Algorithms and IoT based problems
