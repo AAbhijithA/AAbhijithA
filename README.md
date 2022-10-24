@@ -10,3 +10,5 @@ I’m currently learning skills on web development and machine learning
 
 I am open to collaborate on any
 Machine Learning, Algorithms and IoT based problems
+
+You can connect to me via my LinkedIn for any collaboration on problems ^^
