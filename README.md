@@ -1,4 +1,5 @@
 Hi, I’m @AAbhijithA, I am currently a Second Year undergraduate student in Shiv Nadar University Chennai
+
 I’m interested in many domains such as
 1) AI and Data Science with Machine Learning 🤖
 2) IoT 🔌
