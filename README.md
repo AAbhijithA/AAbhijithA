@@ -3,28 +3,28 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abhijith-ajith-16399824b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+    <a href="https://www.linkedin.com/in/abhijith-ajith-16399824b/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
 </div>
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AAbhijithA&style=flat-square&color=blue" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=AAbhijithA&style=flat-square&color=blue" alt="Views"/>
 </div>
 <br>
 <div id="ti1" align="center">
     <h2 style='color: white;'>My GitHub Stats</h2>
 </div>
 <div id="performance" align="center">
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
 </div>
 <br>
 <br>
 <div id="languages" align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
 </div>
 <br>
 <div id="streaks" align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
 </div>
 <br>
 <div id="ti1" align="center">
