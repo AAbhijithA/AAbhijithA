@@ -12,7 +12,7 @@
 </div>
 <br>
 <div id="ti1" align="center">
-<h1 style='color: white;'>My GitHub Stats</h1>
+<h3 style='color: white;'>My GitHub Stats</h3>
 </div>
 <div id="performance" align="center">
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
