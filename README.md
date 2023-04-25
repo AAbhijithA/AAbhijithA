@@ -11,13 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=AAbhijithA&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
-<br>
 <div id="ti1" align="center">
 <h1 style='color: white;'>My GitHub Stats</h1>
 </div>
 <div id="performance" align="center">
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
 </div>
+<br>
 <br>
 <div id="languages" align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
