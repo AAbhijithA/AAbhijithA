@@ -22,9 +22,10 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
 </div>
 <div align="center">
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 </div>
 <!--
 Hi, I’m @AAbhijithA, I am currently a Second Year undergraduate student in Shiv Nadar University Chennai
