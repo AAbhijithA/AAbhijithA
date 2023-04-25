@@ -58,5 +58,25 @@
             <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
           </td>
         </tr>
+        <tr>
+          <td>Machine Learning</td>
+          <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+            <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+          </td>
+        </tr>
+        <tr>
+          <td>Frameworks</td>
+          <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+            <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+          </td>
+        </tr>
     </table>
+</div>
+<div id="CP" align="center">
+    <h2 style='color: white;'>Competitve Programming & DSA</h2>
+    * [My DSA Blog](https://github.com/AAbhijithA/CP-CPP)
+    * [Codeforces Account](https://codeforces.com/profile/AAbhijithA)
 </div>
