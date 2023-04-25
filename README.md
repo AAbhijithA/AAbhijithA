@@ -12,7 +12,7 @@
 </div>
 <br>
 <div id="ti1" align="center">
-<h2 style='color: white;'>My GitHub Stats</h2>
+    <h2 style='color: white;'>My GitHub Stats</h2>
 </div>
 <div id="performance" align="center">
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
@@ -22,6 +22,26 @@
 <div id="languages" align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
 </div>
-<div id="troph" align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=AAbhijthA&theme=synthwave"/> 
+<br>
+<div id="streaks" align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
+</div>
+<br>
+<div id="ti1" align="center">
+    <h2 style='color: white;'>My Technology Stack</h2>
+</div>
+<div id="Tab" align="center">
+    <table style="width:100%">
+        <tr>
+          <th>Type</th>
+          <th>Stack</th>
+        </tr>
+        <tr>
+          <td>Languages</td>
+          <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+          </td>
+        </tr>
+    </table>
 </div>
