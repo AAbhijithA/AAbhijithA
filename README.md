@@ -46,14 +46,14 @@
           </td>
         </tr>
         <tr>
-          <td>Markup/down Language</td>
+          <td>Markup/down Languages</td>
           <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
             <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
           </td>
         </tr>
         <tr>
-          <td>Database</td>
+          <td>Databases</td>
           <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
           </td>
@@ -73,6 +73,12 @@
             <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
           </td>
         </tr>
+        <tr>
+          <td>Microcontrollers</td>
+          <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+          </td>
+        </tr>
     </table>
 </div>
 <br>
@@ -85,5 +91,3 @@
     <a href="https://codeforces.com/profile/AAbhijithA">My Codeforces Account</a>
     
 </div>
-
-
