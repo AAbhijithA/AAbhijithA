@@ -1,3 +1,11 @@
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abhijith-ajith-16399824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AAbhijithA&style=flat-square&color=blue" alt=""/>
+</div>
 Hi, I’m @AAbhijithA, I am currently a Second Year undergraduate student in Shiv Nadar University Chennai
 
 I’m interested in many domains such as
