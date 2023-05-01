@@ -70,6 +70,7 @@
         <tr>
             <td>Frameworks</td>
             <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
             </td>
         </tr>
         <tr>
