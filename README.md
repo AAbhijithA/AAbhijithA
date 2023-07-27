@@ -14,11 +14,6 @@
 <div id="ti1" align="center">
     <h2 style='color: white;'>My GitHub Stats</h2>
 </div>
-<div id="performance" align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AAbhijithA&theme=xcode"/> 
-</div>
-<br>
-<br>
 <div id="languages" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
 </div>
