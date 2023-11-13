@@ -14,9 +14,6 @@
 <div id="ti1" align="center">
     <h2 style='color: white;'>My GitHub Stats</h2>
 </div>
-<div id="languages" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&theme=synthwave"/> 
-</div>
 <br>
 <div id="streaks" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
