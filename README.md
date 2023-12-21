@@ -16,6 +16,9 @@
 </div>
 <br>
 <div id="streaks" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&hide=jupyter+notebook&langs_count=6&layout=compact"/>
+    <br>
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
 </div>
 <br>
@@ -23,7 +26,7 @@
     <h2 style='color: white;'>My Technology Stack</h2>
 </div>
 <div id="Tab" align="center">
-    <table style="width:100%">
+    <table style="width:100%;">
         <tr>
             <td>
                 <h3 style='color: white;'>Programming Languages</h3>
