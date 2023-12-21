@@ -19,10 +19,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
 </div>
 <br>
-<div id="req" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AAbhijithA&show_icons=true&theme=synthwave"/> 
-</div>
-<br>
 <div id="ti1" align="center">
     <h2 style='color: white;'>My Technology Stack</h2>
 </div>
