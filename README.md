@@ -80,11 +80,3 @@
         </tr>
     </table>
 </div>
-<br>
-<div id="CP" align="center">
-    <h2 style='color: white;'>Competitve Programming & DSA</h2>
-    <h4 style='color: white;'>This is a new initiative of mine where I post/document about my Competitive Programming and DSA journey</h4>
-    <a href="https://github.com/AAbhijithA/CP-CPP">My DSA Blog</a>
-    <br>
-    <a href="https://codeforces.com/profile/AAbhijithA">My Codeforces Account</a>
-</div>
