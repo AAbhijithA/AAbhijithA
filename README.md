@@ -16,7 +16,7 @@
 </div>
 <br>
 <div id="streaks" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&hide=jupyter+notebook&langs_count=6&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbhijithA&hide=jupyter+notebook,html,css&langs_count=6&layout=compact"/>
     <br>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAbhijithA&theme=tokyonight"/> 
